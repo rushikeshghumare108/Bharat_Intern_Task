@@ -23,4 +23,4 @@ divCash: The amount of cash dividend paid out to shareholders on the given day.
 splitFactor: The split factor, if any, applied to Google's stock on the given day. A split factor of 1 indicates no split.
 
 Dataset : https://www.kaggle.com/datasets/shreenidhihipparagi/google-stock-prediction
-Solution : 
+Solution : https://github.com/rushikeshghumare108/Bharat_Intern_Task.git
