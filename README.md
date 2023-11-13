@@ -24,3 +24,9 @@ splitFactor: The split factor, if any, applied to Google's stock on the given da
 
 Dataset : https://www.kaggle.com/datasets/shreenidhihipparagi/google-stock-prediction
 Solution : https://github.com/rushikeshghumare108/Bharat_Intern_Task.git
+
+Task 2:Titanic Classification
+🚢 Just completed another exciting project at Bharat Intern
+Data Science internship - "Titanic Classification"! ⚓📊
+In this project, I delved into the world of data analysis and machine learning to tackle the challenging task of predicting passenger survival on the Titanic. Using data-driven insights and predictive modeling, developed a robust classification system.
+
